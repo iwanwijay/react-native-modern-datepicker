@@ -1,6 +1,6 @@
 {
   "name": "react-native-modern-datepicker-dayjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable calendar, time & month picker for React Native (implement dayjs instead momentjs)",
   "main": "src/index.js",
   "scripts": {
@@ -9,36 +9,12 @@
   "files": [
     "src"
   ],
-  "author": "Hossein Shabani",
-  "homepage": "https://hosseinshabani.github.io/react-native-modern-datepicker/",
+  "author": "Iwan Wijaya",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HosseinShabani/react-native-modern-datepicker.git"
-  },
-  "bugs": {
-    "url": "https://github.com/HosseinShabani/react-native-modern-datepicker/issues"
+    "url": "https://github.com/iwanwijay/react-native-modern-datepicker"
   },
   "license": "MIT",
-  "keywords": [
-    "react",
-    "react-native",
-    "react-native-datepicker",
-    "datepicker",
-    "calendar",
-    "react-native-calendar",
-    "react-native-calendars",
-    "react-native-persian-calendar",
-    "react-native-jalaali-calendar",
-    "time-picker",
-    "react-native-time-picker",
-    "month-picker",
-    "react-native-month-picker",
-    "persian",
-    "jalaali",
-    "react-native-jalaali",
-    "persian-calendar",
-    "customizable-datepicker"
-  ],
   "dependencies": {
     "dayjs": "^1.11.7",
     "prop-types": "^15.7.2"
