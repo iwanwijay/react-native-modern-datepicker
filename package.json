@@ -1,6 +1,6 @@
 {
   "name": "react-native-modern-datepicker-dayjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable calendar, time & month picker for React Native (implement dayjs instead momentjs)",
   "main": "src/index.js",
   "scripts": {
